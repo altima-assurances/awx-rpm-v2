@@ -1,1 +1,2 @@
 .vscode/settings.json
+/ansible/extra-vars-svc-ansible.yml
